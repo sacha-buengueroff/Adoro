@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adoro", "Adoro\Adoro.csproj", "{51E9901E-197E-45AB-854D-19BBCF53787C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51E9901E-197E-45AB-854D-19BBCF53787C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E9901E-197E-45AB-854D-19BBCF53787C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E9901E-197E-45AB-854D-19BBCF53787C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E9901E-197E-45AB-854D-19BBCF53787C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAC0E771-C856-4AB8-A75B-FCB8BFA1B98F}
+	EndGlobalSection
+EndGlobal
